@@ -15,557 +15,688 @@
     {
       "name": "Achafont",
       "file": "Achafont.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Horror","Comic Book"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Allura",
       "file": "Allura-Regular.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Romance","Diary"],
+      "generic": ["cursive"]
+
     },
     {
       "name": "Amatic SC",
       "file": "AmaticSC-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comic Book","Comedy"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Anchor Steam NF",
       "file": "AnchorSteamNF.ttf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Anton",
       "file": "Anton-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Block","Headline"],
+      "generic": ["sans-serif"]
+
     },
     {
       "name": "Antique Book Cover",
       "file": "Antique Book Cover.otf",
-      "tags": []
+      "tags": ["Text"],
+      "generic": ["serif"]
     },
     {
       "name": "Ardeco",
       "file": "Ardeco.ttf",
-      "tags": []
+      "tags": ["Display","Text"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Art Nouveau Caps",
       "file": "ArtNouveauCaps.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Art Nouveau","all-caps"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Attentica 4F",
       "file": "Attentica 4F UltraLight.ttf",
-      "tags": []
+      "tags": ["Display"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Bangers",
       "file": "Bangers.ttf",
-      "tags": []
+      "tags": ["Display","Decorative"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Baskervville",
       "file": "Baskervville-Regular.ttf",
-      "tags": []
+      "tags": ["Text","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Bebas Neue",
       "file": "BebasNeue-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Headline","Thriller"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Bellefair",
       "file": "Bellefair-Regular.ttf",
-      "tags": []
+      "tags": ["Text","Classical","Mystery"],
+      "generic": ["serif"]
     },
     {
       "name": "Bete Noir NF",
       "file": "BeteNoirNF.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Art Deco","Comedy"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Big Apple NF",
       "file": "BigAppleNF.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Bigelow Rules",
       "file": "BigelowRules-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Comedy","Romance"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Boecklins Universe",
       "file": "Boecklins Universe.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Art Nouveau"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Breamcatcher",
       "file": "breamcatcher rg.otf",
-      "tags": []
+      "tags": ["Display","Decorative","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Bulletin Gothic",
       "file": "BulletinGothic.otf",
-      "tags": []
+      "tags": ["Display","Decorative","Block","Headline","Thriller","Mystery"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Camelot Caps",
       "file": "CamelotCaps.ttf",
-      "tags": ["Decorative"]
+      "tags": ["Display","Decorative","Old English","All Caps","Historical"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Canterbury",
       "file": "Canterbury.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Old English","Historical"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Carnivalee Freakshow",
       "file": "Carnevalee Freakshow.ttf",
-      "tags": []
+      "tags": ["Display","Decorative","Western","Historical"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Caslon Antique",
       "file": "CaslonAntique.ttf",
-      "tags": []
+      "tags": ["Text","Classical","Western","Historical"],
+      "generic": ["serif"]
     },
     {
       "name": "Caslon OS",
       "file": "CaslonOS-Regular.otf",
-      "tags": []
+      "tags": ["Text","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Chelsea",
       "file": "Chelsea.ttf",
-      "tags": []
+      "tags": ["Text","Classical","Romance"],
+      "generic": ["serif"]
     },
     {
       "name": "Chopin Script",
       "file": "ChopinScript.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Romance","Historical"],
+      "generic": ["cursive"]
     },
     {
       "name": "ChunkFive",
       "file": "Chunk.otf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "ChunkFive Print",
       "file": "Chunk Five Print.otf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Cinzel",
       "file": "Cinzel-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Cinzel Decorative",
       "file": "CinzelDecorative-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Block","All Caps"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Copperplate CC",
       "file": "CopperplateCC-Heavy.otf",
-      "tags": []
+      "tags": ["Display","Block","Historical","All Caps"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Cormorant",
       "file": "Cormorant-Regular.otf",
-      "tags": []
+      "tags": ["Text","Classical","Mystery"],
+      "generic": ["serif"]
     },
     {
       "name": "Cormorant Garamond",
       "file": "CormorantGaramond-VariableFont_wght.ttf",
-      "tags": []
+      "tags": ["Text","Classical","Mystery","Romance"],
+      "generic": ["serif"]
     },
     {
       "name": "Cormorant Infant",
       "file": "CormorantInfant-Regular.otf",
-      "tags": []
+      "tags": ["Text","classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Cormorant SC",
       "file": "CormorantSC-Regular.otf",
-      "tags": []
+      "tags": ["Text","classical","Romance"],
+      "generic": ["serif"]
     },
     {
       "name": "Cormorant Unicase",
       "file": "CormorantUnicase-Regular.otf",
-      "tags": []
+      "tags": ["Display","Classical","All Caps"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Cormorant Upright",
       "file": "CormorantUpright-Regular.otf",
-      "tags": []
+      "tags": ["Text","Classical","Display","Romance"],
+      "generic": ["serif"]
+
     },
     {
       "name": "Crimson",
       "file": "Crimson-Roman.ttf",
-      "tags": []
+      "tags": ["Display","Classical"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Dancing Script",
       "file": "Dancing Script.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten"],
+      "generic": ["cursive"]
     },
     {
       "name": "Debussy",
       "file": "debussy.ttf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Eileen Caps",
       "file": "EileenCaps-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Old English","All Caps"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Elsie Swash Caps",
       "file": "ElsieSwashCaps-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Emilys Candy",
       "file": "EmilysCandy-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy","Comic Book"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Eutemia Ornaments",
       "file": "Eutemia Ornaments.ttf",
-      "tags": ["Decorative"]
+      "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","serif"]
+
     },
     {
       "name": "Fancy Pants NF",
       "file": "FancyPantsNF.ttf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Fashion Victim",
       "file": "FashionVictim.ttf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Ferrum",
       "file": "ferrum.otf",
-      "tags": []
+      "tags": ["Display","All Caps"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Fledgling",
       "file": "fledgling-sb.otf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["sans-serif"]
+
     },
     {
       "name": "Floral Capitals",
       "file": "FloralCapitals.ttf",
-      "tags": []
+      "tags": ["Display","Old English","All Caps"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "FoglihtenDeH02",
       "file": "FoglihtenDeH02.otf",
-      "tags": ["Decorative"]
+      "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "FoglihtenDeH04",
       "file": "FoglihtenDeH04.otf",
-      "tags": ["Decorative"]
+      "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "FoglihtenNo04",
       "file": "FoglihtenNo04-070.otf",
-      "tags": ["Decorative"]
+      "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Ghastly Panic",
       "file": "Ghastly Panic.ttf",
-      "tags": []
+      "tags": ["Display","Horror","All Caps"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Gmarket Sans Bold",
       "file": "GmarketSansBold.otf",
-      "tags": []
+      "tags": ["Display","Block","Art Deco","Market"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Great Vibes",
       "file": "GreatVibes-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Romance"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Griffy",
       "file": "Griffy-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Grusskarten Gotisch",
       "file": "GrusskartenGotisch.ttf",
-      "tags": []
+      "tags": ["Display","Old English","Historical"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Henny Penny",
       "file": "HennyPenny-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Herr Von Muellerhoff",
       "file": "HerrVonMuellerhoff-Regular.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Romance"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "IM FELL Flowers 2",
       "file": "IMFeFlow2.ttf",
-      "tags": []
+      "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Inter",
       "file": "Inter-VariableFont_opsz,wght.ttf",
-      "tags": []
+      "tags": ["Helvetica","Arial"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "International",
       "file": "International.ttf",
-      "tags": []
+      "tags": ["Display","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Jost",
       "file": "Jost-Regular.ttf",
-      "tags": []
+      "tags": ["Futura","Display"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Kingthings Willowless",
       "file": "Kingthings Willowless.ttf",
-      "tags": []
+      "tags": ["Decorative","Comedy","Historical"],
+      "generic": ["fantasy","serif"]
+
     },
     {
       "name": "Kismet NF",
       "file": "KismetNF.ttf",
-      "tags": []
+      "tags": ["Decorative","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Kramer",
       "file": "Kramer.ttf",
-      "tags": []
+      "tags": ["Decorative","Art Nouveau"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "League Spartan",
       "file": "SpartanMB-Regular.otf",
-      "tags": []
+      "tags": ["Futura","Art Nouveau"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Libre Bodoni",
       "file": "LibreBodoni-Regular.ttf",
-      "tags": []
+      "tags": ["Bodoni","Art Deco", "Decorative"],
+      "generic": ["serif"]
     },
     {
       "name": "Libre Franklin",
       "file": "LibreFranklin-Regular.ttf",
-      "tags": []
+      "tags": ["Franklin","Classical"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Lime Glory Caps",
       "file": "LimeGloryCaps.ttf",
-      "tags": []
+      "tags": ["Display","Art Nouveau"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Limelight",
       "file": "Limelight-Regular.ttf",
-      "tags": []
+      "tags": ["Art Deco", "Decorative"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Lintsec",
       "file": "Lintsec.ttf",
-      "tags": []
+      "tags": ["Display","Rubber Stamp"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "London Tube",
       "file": "LondonTube-MABx.ttf",
-      "tags": []
+      "tags": ["Display","Johnston"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Lovers Quarrel",
       "file": "LoversQuarrel-Regular.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Romance"],
+      "generic": ["cursive"]
     },
     {
       "name": "Marcellus SC",
       "file": "MarcellusSC-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Titling Caps"],
+      "generic": ["fantasy","serif"]
+
     },
     {
       "name": "Montserrat",
       "file": "Montserrat-Regular.ttf",
-      "tags": []
+      "tags": ["Franklin","Futura","Gothic"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Mystery Quest",
       "file": "MysteryQuest-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Ntoday Std",
       "file": "NtodayStd-Ultra-KS.otf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Original Surfer",
       "file": "OriginalSurfer-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Block","Comedy"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Ornements ADF",
       "file": "OrnementsADF.ttf",
-      "tags": ["Decorative"]
+      "tags": ["Decorative","Ornament"],
+      "generic": []
+
     },
     {
       "name": "Our Gang NF",
       "file": "OurGangNF.ttf",
-      "tags": []
+      "tags": ["Display","Comedy","Art Nouveau"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Pacifico",
       "file": "Pacifico.ttf",
-      "tags": []
+      "tags": ["Display","Comedy","Fifties"],
+      "generic": ["cursive"]
     },
     {
       "name": "Parisienne",
       "file": "Parisienne-Regular.ttf",
-      "tags": ["Handwritten"]
+      "tags": ["Handwritten","Romance"],
+      "generic": ["cursive"]
     },
     {
       "name": "Park Lane NF",
       "file": "ParkLaneNF.ttf",
-      "tags": []
+      "tags": ["Display","All Caps","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Parseltongue",
       "file": "PARSELTO.TTF",
-      "tags": []
+      "tags": ["Display","All Caps","Art Deco","Comedy"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Peignot",
       "file": "Peignot.ttf",
-      "tags": []
+      "tags": ["Display","All Caps","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Pitch Display",
       "file": "Pitch Display Regular Demo.ttf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Poiret One",
       "file": "PoiretOne-Regular.ttf",
-      "tags": []
+      "file": "Pitch Display Regular Demo.ttf",
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Poppins",
       "file": "Poppins-Regular.ttf",
-      "tags": []
+      "file": "Pitch Display Regular Demo.ttf",
+      "tags": ["Helvetica","Avante-Garde"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Quigley Wiggly",
       "file": "QUIGLEYW.TTF",
-      "tags": []
+      "tags": ["Text","Classical"],
+      "generic": ["serif"]
+
     },
     {
       "name": "Railway",
       "file": "Railway.otf",
-      "tags": []
+      "tags": [],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Rhubarb Pie",
       "file": "RhubarbPie.ttf",
-      "tags": []
+      "tags": ["Text","Classical"],
+      "generic": ["serif"]
+
     },
     {
       "name": "Ritzy Remix NF",
       "file": "RitzyRemixNF.ttf",
-      "tags": []
+      "tags": ["Display","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
+
     },
     {
       "name": "Roboto",
       "file": "Roboto-Regular.ttf",
-      "tags": []
+      "tags": ["Helvetica","Arial","Sans"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Sanchez",
       "file": "Sanchez-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Romance"],
+      "generic": ["serif"]
     },
     {
       "name": "Space Patrol",
       "file": "SpacePatrol.ttf",
-      "tags": []
+      "tags": ["Display","Sci-Fi"],
+      "generic": ["cursive"]
     },
     {
       "name": "Spartan MB",
       "file": "SpartanMB-Regular.otf",
-      "tags": []
+      "tags": ["Market Deco","Futura","Avant Garde","Art Deco"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Spicy Rice",
       "file": "SpicyRice-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Comedy"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "TeX Gyre Bonum",
       "file": "texgyrebonum-regular.otf",
-      "tags": []
+      "tags": ["Text","Bookman","Classical"],
+      "generic": ["serif"]
+
     },
     {
       "name": "TeXGyrePagella",
       "file": "texgyrepagella-regular.otf",
-      "tags": []
+      "tags": ["Text","Palatino","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "TeXGyreTermes",
       "file": "texgyretermes-regular.otf",
-      "tags": []
+      "tags": ["Text","Times","Times New Roman","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Timepiece",
       "file": "Timepiece.TTF",
-      "tags": []
+      "tags": ["Display","Block","Art Deco"],
+      "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "Twentieth Century",
       "file": "TwCenMT-Regular.ttf",
-      "tags": []
+      "tags": ["Helvetica","Avant Garde","Art Deco"],
+      "generic": ["sans-serif"]
     },
     {
       "name": "Ultra",
       "file": "Ultra.ttf",
-      "tags": []
+      "tags": ["Display","Block"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Vivian",
       "file": "Vivian.ttf",
-      "tags": []
+      "tags": ["Display","Art Nouveau"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Westminster Gotisch",
       "file": "WestminsterGotisch.ttf",
-      "tags": []
+      "tags": ["Display","Old English","Gothic"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "XAyax",
       "file": "XAyax.ttf",
-      "tags": []
+      "tags": ["Text","Times","Times New Roman","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "XAyax Outline",
       "file": "XAyaxOutline.ttf",
-      "tags": []
+      "tags": ["Text","Times","Times New Roman","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Yesteryear",
       "file": "Yesteryear-Regular.ttf",
-      "tags": []
+      "tags": ["Display","Handwritten","Historical","Fifites"],
+      "generic": ["fantasy","cursive"]
     },
     {
       "name": "Young Serif",
       "file": "YoungSerif-Regular.ttf",
-      "tags": []
+      "tags": ["Text","Classical"],
+      "generic": ["serif"]
     },
     {
       "name": "Zombified",
       "file": "Zombified.ttf",
-      "tags": []
+      "tags": ["Display","Comic Book","Horror],
+      "generic": ["fantasy","serif"]
+
     }
   ]
 }
