@@ -14,447 +14,558 @@
   "fonts": [
     {
       "name": "Achafont",
-      "file": "Achafont.ttf"
+      "file": "Achafont.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "Allura",
-      "file": "Allura-Regular.ttf"
+      "file": "Allura-Regular.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "Amatic SC",
-      "file": "AmaticSC-Regular.ttf"
+      "file": "AmaticSC-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Anchor Steam NF",
-      "file": "AnchorSteamNF.ttf"
+      "file": "AnchorSteamNF.ttf",
+      "tags": []
     },
     {
       "name": "Anton",
-      "file": "Anton-Regular.ttf"
+      "file": "Anton-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Antique Book Cover",
-      "file": "Antique Book Cover.otf"
+      "file": "Antique Book Cover.otf",
+      "tags": []
     },
     {
       "name": "Ardeco",
-      "file": "Ardeco.ttf"
+      "file": "Ardeco.ttf",
+      "tags": []
     },
     {
       "name": "Art Nouveau Caps",
-      "file": "ArtNouveauCaps.ttf"
+      "file": "ArtNouveauCaps.ttf",
+      "tags": []
     },
     {
       "name": "Attentica 4F",
-      "file": "Attentica 4F UltraLight.ttf"
+      "file": "Attentica 4F UltraLight.ttf",
+      "tags": []
     },
     {
       "name": "Bangers",
-      "file": "Bangers.ttf"
+      "file": "Bangers.ttf",
+      "tags": []
     },
     {
       "name": "Baskervville",
-      "file": "Baskervville-Regular.ttf"
+      "file": "Baskervville-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Bebas Neue",
-      "file": "BebasNeue-Regular.ttf"
+      "file": "BebasNeue-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Bellefair",
-      "file": "Bellefair-Regular.ttf"
+      "file": "Bellefair-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Bete Noir NF",
-      "file": "BeteNoirNF.ttf"
+      "file": "BeteNoirNF.ttf",
+      "tags": []
     },
     {
       "name": "Big Apple NF",
-      "file": "BigAppleNF.ttf"
+      "file": "BigAppleNF.ttf",
+      "tags": []
     },
     {
       "name": "Bigelow Rules",
-      "file": "BigelowRules-Regular.ttf"
+      "file": "BigelowRules-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Boecklins Universe",
-      "file": "Boecklins Universe.ttf"
+      "file": "Boecklins Universe.ttf",
+      "tags": []
     },
     {
       "name": "Breamcatcher",
-      "file": "breamcatcher rg.otf"
+      "file": "breamcatcher rg.otf",
+      "tags": []
     },
     {
       "name": "Bulletin Gothic",
-      "file": "BulletinGothic.otf"
+      "file": "BulletinGothic.otf",
+      "tags": []
     },
     {
       "name": "Camelot Caps",
-      "file": "CamelotCaps.ttf"
+      "file": "CamelotCaps.ttf",
+      "tags": ["Decorative"]
     },
     {
       "name": "Canterbury",
-      "file": "Canterbury.ttf"
+      "file": "Canterbury.ttf",
+      "tags": []
     },
     {
       "name": "Carnivalee Freakshow",
-      "file": "Carnevalee Freakshow.ttf"
+      "file": "Carnevalee Freakshow.ttf",
+      "tags": []
     },
     {
       "name": "Caslon Antique",
-      "file": "CaslonAntique.ttf"
+      "file": "CaslonAntique.ttf",
+      "tags": []
     },
     {
       "name": "Caslon OS",
-      "file": "CaslonOS-Regular.otf"
+      "file": "CaslonOS-Regular.otf",
+      "tags": []
     },
     {
       "name": "Chelsea",
-      "file": "Chelsea.ttf"
+      "file": "Chelsea.ttf",
+      "tags": []
     },
     {
       "name": "Chopin Script",
-      "file": "ChopinScript.ttf"
+      "file": "ChopinScript.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "ChunkFive",
-      "file": "Chunk.otf"
+      "file": "Chunk.otf",
+      "tags": []
     },
     {
       "name": "ChunkFive Print",
-      "file": "Chunk Five Print.otf"
+      "file": "Chunk Five Print.otf",
+      "tags": []
     },
     {
       "name": "Cinzel",
-      "file": "Cinzel-Regular.ttf"
+      "file": "Cinzel-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Cinzel Decorative",
-      "file": "CinzelDecorative-Regular.ttf"
+      "file": "CinzelDecorative-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Copperplate CC",
-      "file": "CopperplateCC-Heavy.otf"
+      "file": "CopperplateCC-Heavy.otf",
+      "tags": []
     },
     {
       "name": "Cormorant",
-      "file": "Cormorant-Regular.otf"
+      "file": "Cormorant-Regular.otf",
+      "tags": []
     },
     {
       "name": "Cormorant Garamond",
-      "file": "CormorantGaramond-VariableFont_wght.ttf"
+      "file": "CormorantGaramond-VariableFont_wght.ttf",
+      "tags": []
     },
     {
       "name": "Cormorant Infant",
-      "file": "CormorantInfant-Regular.otf"
+      "file": "CormorantInfant-Regular.otf",
+      "tags": []
     },
     {
       "name": "Cormorant SC",
-      "file": "CormorantSC-Regular.otf"
+      "file": "CormorantSC-Regular.otf",
+      "tags": []
     },
     {
       "name": "Cormorant Unicase",
-      "file": "CormorantUnicase-Regular.otf"
+      "file": "CormorantUnicase-Regular.otf",
+      "tags": []
     },
     {
       "name": "Cormorant Upright",
-      "file": "CormorantUpright-Regular.otf"
+      "file": "CormorantUpright-Regular.otf",
+      "tags": []
     },
     {
       "name": "Crimson",
-      "file": "Crimson-Roman.ttf"
+      "file": "Crimson-Roman.ttf",
+      "tags": []
     },
     {
       "name": "Dancing Script",
-      "file": "Dancing Script.ttf"
+      "file": "Dancing Script.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "Debussy",
-      "file": "debussy.ttf"
+      "file": "debussy.ttf",
+      "tags": []
     },
     {
       "name": "Eileen Caps",
-      "file": "EileenCaps-Regular.ttf"
+      "file": "EileenCaps-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Elsie Swash Caps",
-      "file": "ElsieSwashCaps-Regular.ttf"
+      "file": "ElsieSwashCaps-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Emilys Candy",
-      "file": "EmilysCandy-Regular.ttf"
+      "file": "EmilysCandy-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Eutemia Ornaments",
-      "file": "Eutemia Ornaments.ttf"
+      "file": "Eutemia Ornaments.ttf",
+      "tags": ["Decorative"]
     },
     {
       "name": "Fancy Pants NF",
-      "file": "FancyPantsNF.ttf"
+      "file": "FancyPantsNF.ttf",
+      "tags": []
     },
     {
       "name": "Fashion Victim",
-      "file": "FashionVictim.ttf"
+      "file": "FashionVictim.ttf",
+      "tags": []
     },
     {
       "name": "Ferrum",
-      "file": "ferrum.otf"
+      "file": "ferrum.otf",
+      "tags": []
     },
     {
       "name": "Fledgling",
-      "file": "fledgling-sb.otf"
+      "file": "fledgling-sb.otf",
+      "tags": []
     },
     {
       "name": "Floral Capitals",
-      "file": "FloralCapitals.ttf"
+      "file": "FloralCapitals.ttf",
+      "tags": []
     },
     {
       "name": "FoglihtenDeH02",
-      "file": "FoglihtenDeH02.otf"
+      "file": "FoglihtenDeH02.otf",
+      "tags": ["Decorative"]
     },
     {
       "name": "FoglihtenDeH04",
-      "file": "FoglihtenDeH04.otf"
+      "file": "FoglihtenDeH04.otf",
+      "tags": ["Decorative"]
     },
     {
       "name": "FoglihtenNo04",
-      "file": "FoglihtenNo04-070.otf"
+      "file": "FoglihtenNo04-070.otf",
+      "tags": ["Decorative"]
     },
     {
       "name": "Ghastly Panic",
-      "file": "Ghastly Panic.ttf"
+      "file": "Ghastly Panic.ttf",
+      "tags": []
     },
     {
       "name": "Gmarket Sans Bold",
-      "file": "GmarketSansBold.otf"
+      "file": "GmarketSansBold.otf",
+      "tags": []
     },
     {
       "name": "Great Vibes",
-      "file": "GreatVibes-Regular.ttf"
+      "file": "GreatVibes-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Griffy",
-      "file": "Griffy-Regular.ttf"
+      "file": "Griffy-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Grusskarten Gotisch",
-      "file": "GrusskartenGotisch.ttf"
+      "file": "GrusskartenGotisch.ttf",
+      "tags": []
     },
     {
       "name": "Henny Penny",
-      "file": "HennyPenny-Regular.ttf"
+      "file": "HennyPenny-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Herr Von Muellerhoff",
-      "file": "HerrVonMuellerhoff-Regular.ttf"
+      "file": "HerrVonMuellerhoff-Regular.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "IM FELL Flowers 2",
-      "file": "IMFeFlow2.ttf"
+      "file": "IMFeFlow2.ttf",
+      "tags": []
     },
     {
       "name": "Inter",
-      "file": "Inter-VariableFont_opsz,wght.ttf"
+      "file": "Inter-VariableFont_opsz,wght.ttf",
+      "tags": []
     },
     {
       "name": "International",
-      "file": "International.ttf"
+      "file": "International.ttf",
+      "tags": []
     },
     {
       "name": "Jost",
-      "file": "Jost-Regular.ttf"
+      "file": "Jost-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Kingthings Willowless",
-      "file": "Kingthings Willowless.ttf"
+      "file": "Kingthings Willowless.ttf",
+      "tags": []
     },
     {
       "name": "Kismet NF",
-      "file": "KismetNF.ttf"
+      "file": "KismetNF.ttf",
+      "tags": []
     },
     {
       "name": "Kramer",
-      "file": "Kramer.ttf"
+      "file": "Kramer.ttf",
+      "tags": []
     },
     {
       "name": "League Spartan",
-      "file": "SpartanMB-Regular.otf"
+      "file": "SpartanMB-Regular.otf",
+      "tags": []
     },
     {
       "name": "Libre Bodoni",
-      "file": "LibreBodoni-Regular.ttf"
+      "file": "LibreBodoni-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Libre Franklin",
-      "file": "LibreFranklin-Regular.ttf"
+      "file": "LibreFranklin-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Lime Glory Caps",
-      "file": "LimeGloryCaps.ttf"
+      "file": "LimeGloryCaps.ttf",
+      "tags": []
     },
     {
       "name": "Limelight",
-      "file": "Limelight-Regular.ttf"
+      "file": "Limelight-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Lintsec",
-      "file": "Lintsec.ttf"
+      "file": "Lintsec.ttf",
+      "tags": []
     },
     {
       "name": "London Tube",
-      "file": "LondonTube-MABx.ttf"
+      "file": "LondonTube-MABx.ttf",
+      "tags": []
     },
     {
       "name": "Lovers Quarrel",
-      "file": "LoversQuarrel-Regular.ttf"
+      "file": "LoversQuarrel-Regular.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "Marcellus SC",
-      "file": "MarcellusSC-Regular.ttf"
+      "file": "MarcellusSC-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Montserrat",
-      "file": "Montserrat-Regular.ttf"
+      "file": "Montserrat-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Mystery Quest",
-      "file": "MysteryQuest-Regular.ttf"
+      "file": "MysteryQuest-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Ntoday Std",
-      "file": "NtodayStd-Ultra-KS.otf"
+      "file": "NtodayStd-Ultra-KS.otf",
+      "tags": []
     },
     {
       "name": "Original Surfer",
-      "file": "OriginalSurfer-Regular.ttf"
+      "file": "OriginalSurfer-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Ornements ADF",
-      "file": "OrnementsADF.ttf"
+      "file": "OrnementsADF.ttf",
+      "tags": ["Decorative"]
     },
     {
       "name": "Our Gang NF",
-      "file": "OurGangNF.ttf"
+      "file": "OurGangNF.ttf",
+      "tags": []
     },
     {
       "name": "Pacifico",
-      "file": "Pacifico.ttf"
+      "file": "Pacifico.ttf",
+      "tags": []
     },
     {
       "name": "Parisienne",
-      "file": "Parisienne-Regular.ttf"
+      "file": "Parisienne-Regular.ttf",
+      "tags": ["Handwritten"]
     },
     {
       "name": "Park Lane NF",
-      "file": "ParkLaneNF.ttf"
+      "file": "ParkLaneNF.ttf",
+      "tags": []
     },
     {
       "name": "Parseltongue",
-      "file": "PARSELTO.TTF"
+      "file": "PARSELTO.TTF",
+      "tags": []
     },
     {
       "name": "Peignot",
-      "file": "Peignot.ttf"
+      "file": "Peignot.ttf",
+      "tags": []
     },
     {
       "name": "Pitch Display",
-      "file": "Pitch Display Regular Demo.ttf"
+      "file": "Pitch Display Regular Demo.ttf",
+      "tags": []
     },
     {
       "name": "Poiret One",
-      "file": "PoiretOne-Regular.ttf"
+      "file": "PoiretOne-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Poppins",
-      "file": "Poppins-Regular.ttf"
+      "file": "Poppins-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Quigley Wiggly",
-      "file": "QUIGLEYW.TTF"
+      "file": "QUIGLEYW.TTF",
+      "tags": []
     },
     {
       "name": "Railway",
-      "file": "Railway.otf"
+      "file": "Railway.otf",
+      "tags": []
     },
     {
       "name": "Rhubarb Pie",
-      "file": "RhubarbPie.ttf"
+      "file": "RhubarbPie.ttf",
+      "tags": []
     },
     {
       "name": "Ritzy Remix NF",
-      "file": "RitzyRemixNF.ttf"
+      "file": "RitzyRemixNF.ttf",
+      "tags": []
     },
     {
       "name": "Roboto",
-      "file": "Roboto-Regular.ttf"
+      "file": "Roboto-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Sanchez",
-      "file": "Sanchez-Regular.ttf"
+      "file": "Sanchez-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Space Patrol",
-      "file": "SpacePatrol.ttf"
+      "file": "SpacePatrol.ttf",
+      "tags": []
     },
     {
       "name": "Spartan MB",
-      "file": "SpartanMB-Regular.otf"
+      "file": "SpartanMB-Regular.otf",
+      "tags": []
     },
     {
       "name": "Spicy Rice",
-      "file": "SpicyRice-Regular.ttf"
+      "file": "SpicyRice-Regular.ttf",
+      "tags": []
     },
     {
       "name": "TeX Gyre Bonum",
-      "file": "texgyrebonum-regular.otf"
+      "file": "texgyrebonum-regular.otf",
+      "tags": []
     },
     {
       "name": "TeXGyrePagella",
-      "file": "texgyrepagella-regular.otf"
+      "file": "texgyrepagella-regular.otf",
+      "tags": []
     },
     {
       "name": "TeXGyreTermes",
-      "file": "texgyretermes-regular.otf"
+      "file": "texgyretermes-regular.otf",
+      "tags": []
     },
     {
       "name": "Timepiece",
-      "file": "Timepiece.TTF"
+      "file": "Timepiece.TTF",
+      "tags": []
     },
     {
       "name": "Twentieth Century",
-      "file": "TwCenMT-Regular.ttf"
+      "file": "TwCenMT-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Ultra",
-      "file": "Ultra.ttf"
+      "file": "Ultra.ttf",
+      "tags": []
     },
     {
       "name": "Vivian",
-      "file": "Vivian.ttf"
+      "file": "Vivian.ttf",
+      "tags": []
     },
     {
       "name": "Westminster Gotisch",
-      "file": "WestminsterGotisch.ttf"
+      "file": "WestminsterGotisch.ttf",
+      "tags": []
     },
     {
       "name": "XAyax",
-      "file": "XAyax.ttf"
+      "file": "XAyax.ttf",
+      "tags": []
     },
     {
       "name": "XAyax Outline",
-      "file": "XAyaxOutline.ttf"
+      "file": "XAyaxOutline.ttf",
+      "tags": []
     },
     {
       "name": "Yesteryear",
-      "file": "Yesteryear-Regular.ttf"
+      "file": "Yesteryear-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Young Serif",
-      "file": "YoungSerif-Regular.ttf"
+      "file": "YoungSerif-Regular.ttf",
+      "tags": []
     },
     {
       "name": "Zombified",
-      "file": "Zombified.ttf"
+      "file": "Zombified.ttf",
+      "tags": []
     }
   ]
 }
