@@ -550,14 +550,12 @@
     {
       "name": "Poiret One",
       "file": "PoiretOne-Regular.ttf",
-      "file": "Pitch Display Regular Demo.ttf",
       "tags": ["Display","Art Deco"],
       "generic": ["fantasy","serif"]
     },
     {
       "name": "Poppins",
       "file": "Poppins-Regular.ttf",
-      "file": "Pitch Display Regular Demo.ttf",
       "tags": ["Helvetica","Avant Garde"],
       "generic": ["sans-serif"]
     },
@@ -682,7 +680,7 @@
     {
       "name": "Yesteryear",
       "file": "Yesteryear-Regular.ttf",
-      "tags": ["Display","Handwritten","Historical","Fifites"],
+      "tags": ["Display","Handwritten","Historical","Fifties"],
       "generic": ["fantasy","cursive"]
     },
     {
