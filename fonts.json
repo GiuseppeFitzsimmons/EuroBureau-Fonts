@@ -139,7 +139,7 @@
     {
       "name": "Canterbury",
       "file": "Canterbury.ttf",
-      "tags": ["Display","Decorative","Old English","Historical"],
+      "tags": ["Display","Decorative","Old English","Historical","Gothic"],
       "generic": ["fantasy","sans-serif"]
     },
     {
@@ -260,7 +260,7 @@
     {
       "name": "Eileen Caps",
       "file": "EileenCaps-Regular.ttf",
-      "tags": ["Display","Old English","All Caps"],
+      "tags": ["Display","Old English","All Caps","Illuminated"],
       "generic": ["fantasy","cursive"]
     },
     {
@@ -311,7 +311,7 @@
     {
       "name": "Floral Capitals",
       "file": "FloralCapitals.ttf",
-      "tags": ["Display","Old English","All Caps"],
+      "tags": ["Display","Old English","All Caps","Illuminated"],
       "generic": ["fantasy","cursive"]
     },
     {
@@ -329,7 +329,7 @@
     {
       "name": "FoglihtenNo04",
       "file": "FoglihtenNo04-070.otf",
-      "tags": ["Decorative","Ornament"],
+      "tags": ["Decorative","Romantasy"],
       "generic": ["fantasy","cursive"]
     },
     {
@@ -353,13 +353,13 @@
     {
       "name": "Griffy",
       "file": "Griffy-Regular.ttf",
-      "tags": ["Display","Comedy"],
+      "tags": ["Display","Comedy","Romantasy"],
       "generic": ["fantasy","serif"]
     },
     {
       "name": "Grusskarten Gotisch",
       "file": "GrusskartenGotisch.ttf",
-      "tags": ["Display","Old English","Historical"],
+      "tags": ["Display","Old English","Historical","Gothic"],
       "generic": ["fantasy","serif"]
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "International",
       "file": "International.ttf",
-      "tags": ["Display","Classical"],
+      "tags": ["Display","Classical","All Caps"],
       "generic": ["serif"]
     },
     {
@@ -401,7 +401,7 @@
     {
       "name": "Kingthings Willowless",
       "file": "Kingthings Willowless.ttf",
-      "tags": ["Decorative","Comedy","Historical"],
+      "tags": ["Decorative","Comedy","Historical","Romantasy"],
       "generic": ["fantasy","serif"]
 
     },
@@ -432,13 +432,13 @@
     {
       "name": "Libre Franklin",
       "file": "LibreFranklin-Regular.ttf",
-      "tags": ["Franklin","Classical"],
+      "tags": ["Franklin","Classical","Univers"],
       "generic": ["sans-serif"]
     },
     {
       "name": "Lime Glory Caps",
       "file": "LimeGloryCaps.ttf",
-      "tags": ["Display","Art Nouveau"],
+      "tags": ["Display","Art Nouveau","Fantasy","Romantasy","Gothic"],
       "generic": ["fantasy","serif"]
     },
     {
@@ -450,13 +450,13 @@
     {
       "name": "Lintsec",
       "file": "Lintsec.ttf",
-      "tags": ["Display","Rubber Stamp"],
+      "tags": ["Display","Rubber Stamp","Stencil"],
       "generic": ["fantasy","sans-serif"]
     },
     {
       "name": "London Tube",
       "file": "LondonTube-MABx.ttf",
-      "tags": ["Display","Johnston"],
+      "tags": ["Display","Johnston","Underground","Metro"],
       "generic": ["sans-serif"]
     },
     {
@@ -468,7 +468,7 @@
     {
       "name": "Marcellus SC",
       "file": "MarcellusSC-Regular.ttf",
-      "tags": ["Display","Titling Caps"],
+      "tags": ["Display","Titling Caps","Classical"],
       "generic": ["fantasy","serif"]
 
     },
@@ -481,7 +481,7 @@
     {
       "name": "Mystery Quest",
       "file": "MysteryQuest-Regular.ttf",
-      "tags": ["Display","Comedy"],
+      "tags": ["Display","Comedy","Romantasy"],
       "generic": ["fantasy","serif"]
     },
     {
@@ -558,7 +558,7 @@
       "name": "Poppins",
       "file": "Poppins-Regular.ttf",
       "file": "Pitch Display Regular Demo.ttf",
-      "tags": ["Helvetica","Avante-Garde"],
+      "tags": ["Helvetica","Avant Garde"],
       "generic": ["sans-serif"]
     },
     {
@@ -571,7 +571,7 @@
     {
       "name": "Railway",
       "file": "Railway.otf",
-      "tags": [],
+      "tags": ["Helvetica","Sans","Children","Underground"],
       "generic": ["sans-serif"]
     },
     {
@@ -652,7 +652,7 @@
     {
       "name": "Ultra",
       "file": "Ultra.ttf",
-      "tags": ["Display","Block"],
+      "tags": ["Display","Block","College"],
       "generic": ["fantasy","serif"]
     },
     {
