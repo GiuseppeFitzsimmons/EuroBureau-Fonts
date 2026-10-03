@@ -19,6 +19,13 @@
       "generic": ["fantasy","cursive"]
     },
     {
+      "name": "Alfa Slab One",
+      "file": "AlfaSlabOne-Regular.ttf",
+      "tags": ["Slab","Memphis","Lubalin","Block","Display","Headline"],
+      "generic": ["serif"]
+
+    },
+    {
       "name": "Allura",
       "file": "Allura-Regular.ttf",
       "tags": ["Handwritten","Romance","Diary"],
@@ -59,8 +66,14 @@
     {
       "name": "Art Nouveau Caps",
       "file": "ArtNouveauCaps.ttf",
-      "tags": ["Display","Decorative","Art Nouveau","all-caps"],
+      "tags": ["Display","Decorative","Art Nouveau","All Caps"],
       "generic": ["fantasy","sans-serif"]
+    },
+    {
+      "name": "Arvp",
+      "file": "Arvo-Regular.ttf",
+      "tags": ["Display","Memphis","Lubalin","Slab"],
+      "generic": ["serif"]
     },
     {
       "name": "Attentica 4F",
@@ -109,6 +122,13 @@
       "file": "BigelowRules-Regular.ttf",
       "tags": ["Display","Decorative","Comedy","Romance"],
       "generic": ["fantasy","sans-serif"]
+
+    },
+    {
+      "name": "Bigfish",
+      "file": "Bigfish.ttf",
+      "tags": ["Display","Comedy","Slab"],
+      "generic": ["fantasy","serif"]
 
     },
     {
@@ -197,6 +217,12 @@
       "generic": ["fantasy","serif"]
     },
     {
+      "name": "College",
+      "file": "colleges.ttf",
+      "tags": ["Display","Block","Slab","College],
+      "generic": ["serif"]
+    },
+    {
       "name": "Copperplate CC",
       "file": "CopperplateCC-Heavy.otf",
       "tags": ["Display","Block","Historical","All Caps"],
@@ -279,6 +305,13 @@
       "name": "Eutemia Ornaments",
       "file": "Eutemia Ornaments.ttf",
       "tags": ["Decorative","Ornament"],
+      "generic": ["fantasy","serif"]
+
+    },
+    {
+      "name": "Fairfax Station NF",
+      "file": "FairfaxStationNF.ttf",
+      "tags": ["Display","Comedy"],
       "generic": ["fantasy","serif"]
 
     },
@@ -473,6 +506,20 @@
 
     },
     {
+      "name": "Men Nefer Black",
+      "file": "Men-Nefer-Black.ttf",
+      "tags": ["Memphis","Slab","Lubalin","Display"],
+      "generic": ["serif"]
+
+    },
+    {
+      "name": "Men Nefer Black",
+      "file": "Men-Nefer.ttf",
+      "tags": ["Memphis","Slab","Lubalin","Display"],
+      "generic": ["serif"]
+
+    },
+    {
       "name": "Montserrat",
       "file": "Montserrat-Regular.ttf",
       "tags": ["Franklin","Futura","Gothic"],
@@ -542,6 +589,12 @@
       "generic": ["fantasy","sans-serif"]
     },
     {
+      "name": "Peralta",
+      "file": "Peralta-Regular.ttf",
+      "tags": ["Slab","Comedy","Romantasy"],
+      "generic": ["fantasy","serif"]
+    },
+    {
       "name": "Pitch Display",
       "file": "Pitch Display Regular Demo.ttf",
       "tags": ["Display","Art Deco"],
@@ -595,8 +648,14 @@
     {
       "name": "Sanchez",
       "file": "Sanchez-Regular.ttf",
-      "tags": ["Display","Romance"],
+      "tags": ["Display","Romance","Memphis","Lubalin"],
       "generic": ["serif"]
+    },
+    {
+      "name": "Smokum",
+      "file": "Smokum-Regular.ttf",
+      "tags": ["Display","Western"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Space Patrol",
@@ -634,6 +693,12 @@
       "file": "texgyretermes-regular.otf",
       "tags": ["Text","Times","Times New Roman","Classical"],
       "generic": ["serif"]
+    },
+    {
+      "name": "Thorsa",
+      "file": "THORSA.otf",
+      "tags": ["Display","All Caps","Titling Caps"],
+      "generic": ["fantasy","serif"]
     },
     {
       "name": "Timepiece",
